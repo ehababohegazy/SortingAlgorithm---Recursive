@@ -4,7 +4,7 @@ static void Main(string[] args)
 {
     int[] arr = { 100, 80, 15, 25, 10 };
 
-    Console.WriteLine("Original array:");
+    Console.WriteLine("Inserted array:");
     PrintArray(arr);
 
     // Call the appropriate method from each sorting class
